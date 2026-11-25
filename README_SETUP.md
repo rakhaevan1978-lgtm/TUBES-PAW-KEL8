@@ -21,7 +21,7 @@
 - `/order` — Wadah Peran 2 (Raditya)
 - `/track` — Wadah Peran 5 (Toha)
 - `/login` — Autentikasi Tim (Peran 1 - Evan)
-- `/owner/dashboard` & `/desainer/dashboard` — Wadah Peran 6 (Farrel)
+- `/owner/dashboard` & `/desainer/dashboard` — Wadah Peran 6 (Elhaq - peran 6)
 - `/owner/orders` — Wadah Peran 2 (Raditya)
 - `/owner/penugasan` & `/desainer/tugas` — Wadah Peran 3 (Rasya)
 - `/owner/pembayaran` — Wadah Peran 4 (Mangaraja)
